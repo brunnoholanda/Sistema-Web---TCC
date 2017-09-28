@@ -9,6 +9,7 @@
 	public $identificacao;
 	public $peso;
 	public $estado;
+	public $valor;
 	
 
 	
@@ -67,6 +68,14 @@
     function setEstado($estado) {
         $this->estado = $estado;
     }
+	
+    function getValor() {
+        return $this->valor;
+    }
+
+    function setValor($valor) {
+        $this->valor = $valor;
+    }	
 }
 
 ?>
