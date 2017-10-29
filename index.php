@@ -2,7 +2,7 @@
 <html>
    <head>
       <meta charset="UTF-8">
-      <title>Sistema de Patrimônio de Órgãos Públicos e Privados - Login</title> 
+      <title>Sistema de Patrimônio de Órgãos Públicos e Privados</title> 
    </head>
    <body>
 
